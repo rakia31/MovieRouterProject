@@ -3,7 +3,7 @@ import { makeStyles } from '@mui/styles';
 
 import Modal from '@mui/material/Modal';
 import AddCircleOutlineIcon from '@mui/icons-material/AddCircleOutline';
-//import "./AddMovie.css";
+import "./AddMovie.css";
 function getModalStyle() {
   const top = 50;
   const left = 50;

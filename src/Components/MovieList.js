@@ -8,7 +8,7 @@ const MovieList = ({ movies, searchTitle, searchRating }) => {
   };
   return (
     <div>
-      <div className="moviesList">
+      <div style={{}} className="moviesList">
         {movies
           .filter(
             (el) =>

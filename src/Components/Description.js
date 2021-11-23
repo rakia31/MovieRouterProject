@@ -12,7 +12,7 @@ const Description = ({
     return (
         <div>
            <h1>{movie.name}</h1>
-           <h2>{movie.video}</h2>
+        
            <Button onClick ={ () => history.goBack()}>Go back</Button>
            <ReactPlayer url={movie.video} controls={true}/>
         </div>

@@ -1,6 +1,5 @@
 import React from "react";
-
-//import "./MovieCard.css";
+import "./MovieCard.css";
 import Box from '@mui/material/Box';
 import Rating from '@mui/material/Rating';
 import { Link } from "react-router-dom";

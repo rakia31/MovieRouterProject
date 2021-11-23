@@ -8,7 +8,7 @@ import Avatar from '@mui/material/Avatar';
 import SearchIcon from '@mui/icons-material/Search';
 import SearchTitle from "./SearchTitle";
 import SearchRate from "./SearchRating";
-//import "./Navbar.css";
+import "./Navbar.css";
 const useStyles = makeStyles((theme) => ({
   root: {
     flexGrow: 1,
